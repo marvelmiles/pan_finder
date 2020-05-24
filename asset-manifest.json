@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pan_finder/static/css/main.70fd73c6.chunk.css",
+    "main.js": "/pan_finder/static/js/main.8fe48067.chunk.js",
+    "main.js.map": "/pan_finder/static/js/main.8fe48067.chunk.js.map",
+    "runtime-main.js": "/pan_finder/static/js/runtime-main.4028033b.js",
+    "runtime-main.js.map": "/pan_finder/static/js/runtime-main.4028033b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/pan_finder/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f0ce4fa6.chunk.js": "/pan_finder/static/js/2.f0ce4fa6.chunk.js",
+    "static/js/2.f0ce4fa6.chunk.js.map": "/pan_finder/static/js/2.f0ce4fa6.chunk.js.map",
+    "index.html": "/pan_finder/index.html",
+    "precache-manifest.31a60f1b217f1e7af7f767c355029f21.js": "/pan_finder/precache-manifest.31a60f1b217f1e7af7f767c355029f21.js",
+    "service-worker.js": "/pan_finder/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/pan_finder/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.70fd73c6.chunk.css.map": "/pan_finder/static/css/main.70fd73c6.chunk.css.map",
+    "static/js/2.f0ce4fa6.chunk.js.LICENSE.txt": "/pan_finder/static/js/2.f0ce4fa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4028033b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f0ce4fa6.chunk.js",
+    "static/css/main.70fd73c6.chunk.css",
+    "static/js/main.8fe48067.chunk.js"
+  ]
+}
